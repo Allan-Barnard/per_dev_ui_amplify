@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "perdevuiamplify",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-06-24T15:11:51.510Z"
+}
